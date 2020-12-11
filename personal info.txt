@@ -1,1 +1,25 @@
+git clone https://username:password@github.com/mustansariqbal/milkman.git .
 
+git clone https://idreesandroid:idrees-Kashmir-sky@github.com/mustansariqbal/milkman.git .
+
+
+https://github.com/mustansariqbal/milkman.git
+
+
+
+idreesandroid
+idrees-Kashmir-sky
+
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=milkman
+DB_USERNAME=milkman
+DB_PASSWORD=Milkman@123
+
+The Milk Man
+142.93.38.12
+root
+2VGGAMRY0he0dPoFQ8Gd
+Kashmir!@#$1234

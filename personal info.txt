@@ -23,3 +23,31 @@ The Milk Man
 root
 2VGGAMRY0he0dPoFQ8Gd
 Kashmir!@#$1234
+
+idreesfiverr786@gmail.com
+seed
+9f07bca0986f61ed3c2810d9fd011c6b0884b6bb19c9730dc6fad04b19daf351
+addresss
+nano_3imiot1rm5e7s6nx7otu4dsjopsxh94przy7sbg3z6em4j3icd7u94gjnmne
+
+Seed: 9f07bca0986f61ed3c2810d9fd011c6b0884b6bb19c9730dc6fad04b19daf351
+Private Key: D80FF7978789D4FD40D9CF4AEFE555E9A685DDFF786B8DBC6D1623DB0018318F
+Public Key: C270AE81898D85C929D2D75B12F31ADB3D79C56C7FC5CA5C1F91931443052CBB
+Address: nano_3imiot1rm5e7s6nx7otu4dsjopsxh94przy7sbg3z6em4j3icd7u94gjnmne
+
+
+cryptocurrency
+
+I have multiple users in my site now so that i need to integrate cryptocurrency nano coin in my site for that
+
+I am looking for the crypto/blockchain developer specifically in the nano coin development.
+
+The person should know how to build node and start mining on our purchased server and also linked it to blockchain network, other than that also create wallets for nano based on one parent wallet and sub account wallets so that i can manage all the transection of each user.
+
+wallet address of user created and save on the run time on my server 
+
+So any funds received or sent should be linked with parent wallet as well. 
+
+Preferred one should be well known how to set all this up with custom PHP or PHP (Laravel).
+
+Also provide the complete documentation of the work flow which describe the complete procedure of working and transection.
